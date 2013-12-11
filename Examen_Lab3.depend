@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386728926 source:c:\users\slyther\desktop\examen_lab3\examen pauta.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
